@@ -1,0 +1,30 @@
+{
+  "name": "baches",
+  "version": "0.0.0",
+  "description": "This is the Baches App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hseghetti/baches.git"
+  },
+  "keywords": [
+    "javascript",
+    "gulp",
+    "npm",
+    "saas",
+    "react",
+    "reactjs"
+  ],
+  "author": "Hernan Seghetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hseghetti/baches/issues"
+  },
+  "homepage": "https://github.com/hseghetti/baches",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
